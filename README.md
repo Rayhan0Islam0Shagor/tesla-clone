@@ -3,6 +3,7 @@
 This clone is so clean do fancy. just check it out.
 
 ## Demo
+<a href="/https://tesla-clone45.netlify.app/" target="_blank">Tesla<a>
 
 ## Technologies
 
@@ -11,6 +12,7 @@ This clone is so clean do fancy. just check it out.
 - React-icons
 - React Hooks
 - react-reveal
+- styled-components
 
 ## Installation
 
