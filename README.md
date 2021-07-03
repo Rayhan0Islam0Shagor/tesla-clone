@@ -3,7 +3,7 @@
 This clone is so clean do fancy. just check it out.
 
 ## Demo
-<a href="/https://tesla-clone45.netlify.app/" target="_blank">Tesla<a>
+(https://tesla-clone45.netlify.app/)
 
 ## Technologies
 
@@ -19,7 +19,7 @@ This clone is so clean do fancy. just check it out.
 Install my-project with npm
 
 ```bash
-  git clone ""
+  git clone "https://github.com/Rayhan0Islam0Shagor/tesla-clone.git"
   npm install
   npm start
 ```
@@ -27,7 +27,7 @@ Install my-project with npm
 Install my-project with yarn
 
 ```bash
-  git clone ""
+  git clone "https://github.com/Rayhan0Islam0Shagor/tesla-clone.git"
   yarn
   yarn start
 ```
