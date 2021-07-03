@@ -3,6 +3,7 @@
 This clone is so clean do fancy. just check it out.
 
 ## Demo
+https://tesla-clone45.netlify.app/
 
 ## Technologies
 
@@ -11,13 +12,14 @@ This clone is so clean do fancy. just check it out.
 - React-icons
 - React Hooks
 - react-reveal
+- styled-components
 
 ## Installation
 
 Install my-project with npm
 
 ```bash
-  git clone ""
+  git clone "https://github.com/Rayhan0Islam0Shagor/tesla-clone.git"
   npm install
   npm start
 ```
@@ -25,7 +27,7 @@ Install my-project with npm
 Install my-project with yarn
 
 ```bash
-  git clone ""
+  git clone "https://github.com/Rayhan0Islam0Shagor/tesla-clone.git"
   yarn
   yarn start
 ```
