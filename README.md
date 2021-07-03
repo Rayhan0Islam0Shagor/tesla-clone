@@ -3,7 +3,7 @@
 This clone is so clean do fancy. just check it out.
 
 ## Demo
-(https://tesla-clone45.netlify.app/)
+https://tesla-clone45.netlify.app/
 
 ## Technologies
 
